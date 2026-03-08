@@ -1,16 +1,19 @@
-## Hi there 👋
+## Привет! Я начинающий разработчик 👋
 
-<!--
-**Arina1204/Arina1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне  
+Я начинающий веб-разработчик, который только начинает свой путь в IT. Учусь создавать сайты, экспериментирую с кодом и каждый день открываю что-то новое в мире разработки.  
+### Сейчас я изучаю :
+- HTML & CSS  
+- JavaScript (основы)  
+- Адаптивную верстку  
+- Git и GitHub
+  ###  Мои цели:
+- [ ] Создать свой первый полноценный сайт
+- [ ] Выучить JavaScript на достаточном уровне
+- [ ] Познакомиться с React
+- [ ] Найти первую работу в IT
 
-Here are some ideas to get you started:
-hvjy
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Связь со мной:
+- 📧 Почта: arinachirets@gmail.com
+
+  #### ⭐ Спасибо, что заглянули! Буду рад советам и критике.
